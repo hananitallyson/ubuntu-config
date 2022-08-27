@@ -94,6 +94,10 @@ php -r "if (hash_file('sha384', 'composer-setup.php') === '55ce33d7678c5a6110855
 php composer-setup.php
 php -r "unlink('composer-setup.php');"
 ```
+Most likely, you want to put the composer.phar into a directory on your PATH, so you can simply call composer from any directory (Global install), using for example:
+```sh
+sudo mv composer.phar /usr/local/bin/composer
+```
 
 <br>
 
