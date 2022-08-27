@@ -2,8 +2,15 @@
 
 This readme, helps me with my Ubuntu configuration!
 
-**Install Curl**
+**Installing Curl**
 
 ```sh
 sudo apt-get install curl
+```
+
+**Installing Apache**
+
+```sh
+sudo apt update
+sudo apt install apache2
 ```
