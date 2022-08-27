@@ -14,6 +14,13 @@ This README helps me with my Ubuntu configuration!
 
 ## Installation Commands
 
+```sh
+sudo apt-get update
+sudo apt-get install net-tools
+```
+
+<br>
+
 **Installing Git**
 
 ```sh
