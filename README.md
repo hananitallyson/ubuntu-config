@@ -1,4 +1,4 @@
-# Web Development Setup on Linux Ubuntu
+# Web Development Setup on Ubuntu Linux
 
 This README helps me with my Ubuntu configuration!
 
