@@ -4,6 +4,9 @@ This readme, helps me with my Ubuntu configuration!
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Curl](#installing-curl)
+- [Curl](#installing-apache)
+- [Curl](#installing-mysql-server)
+- [Curl](#installing-php)
 
 <hr>
 
