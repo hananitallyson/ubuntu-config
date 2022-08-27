@@ -2,7 +2,9 @@
 
 This readme, helps me with my Ubuntu configuration!
 
-## Installing terminal commands
+<hr>
+
+(Visual Studio Code)[https://code.visualstudio.com/]
 
 **Installing Curl**
 
