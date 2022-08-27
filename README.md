@@ -2,6 +2,8 @@
 
 This readme, helps me with my Ubuntu configuration!
 
+## Installing terminal commands
+
 **Installing Curl**
 
 ```sh
