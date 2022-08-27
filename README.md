@@ -6,6 +6,8 @@ This readme, helps me with my Ubuntu configuration!
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 
+<br>
+
 ## Installation Commands
 
 **Installing Curl**
