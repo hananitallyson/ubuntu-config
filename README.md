@@ -1,4 +1,7 @@
 # Web Development Setup on Linux Ubuntu
 
-### Install Curl
-`sudo apt-get install curl`
+Install Curl
+
+```sh
+sudo apt-get install curl
+```
