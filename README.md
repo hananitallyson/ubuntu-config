@@ -32,6 +32,15 @@ sudo apt-get install curl
 
 <br>
 
+**Installing NodeJS**
+
+```sh
+curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+sudo apt-get install -y nodejs
+```
+
+<br>
+
 **Installing Apache**
 
 ```sh
