@@ -1,6 +1,8 @@
 # Web Development Setup on Linux Ubuntu
 
-This readme, helps me with my Ubuntu configuration!
+This README helps me with my Ubuntu configuration!
+
+<br>
 
 ## Development Programs
 - [Visual Studio Code](https://code.visualstudio.com/)
