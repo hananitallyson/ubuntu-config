@@ -2,9 +2,12 @@
 
 This readme, helps me with my Ubuntu configuration!
 
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Curl](#installing-curl)
+
 <hr>
 
-Install [Visual Studio Code](https://code.visualstudio.com/)
+
 
 **Installing Curl**
 
