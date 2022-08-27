@@ -1,4 +1,4 @@
-# Web Development Setup on Linux Ubuntu 20.04
+# Web Development Setup on Linux Ubuntu
 
  - Install Google Chrome
  - Install Visual Studio Code
