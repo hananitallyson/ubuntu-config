@@ -14,6 +14,8 @@ This README helps me with my Ubuntu configuration!
 
 ## Installation Commands
 
+**Installing Net-Tools**
+
 ```sh
 sudo apt-get update
 sudo apt-get install net-tools
