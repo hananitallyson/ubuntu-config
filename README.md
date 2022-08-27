@@ -2,15 +2,10 @@
 
 This readme, helps me with my Ubuntu configuration!
 
+## Development Programs
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Curl](#installing-curl)
-- [Curl](#installing-apache)
-- [Curl](#installing-mysql-server)
-- [Curl](#installing-php)
 
-<hr>
-
-
+## Installation Commands
 
 **Installing Curl**
 
