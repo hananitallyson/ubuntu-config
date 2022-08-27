@@ -13,6 +13,15 @@ This README helps me with my Ubuntu configuration!
 
 ## Installation Commands
 
+**Installing Git**
+
+```sh
+sudo apt update
+sudo apt-get install git
+```
+
+<br>
+
 **Installing Curl**
 
 ```sh
