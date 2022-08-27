@@ -6,7 +6,7 @@ This README helps me with my Ubuntu configuration!
 
 ## Development Programs
 
-- [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 
 <br>
