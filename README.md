@@ -4,7 +4,7 @@ This readme, helps me with my Ubuntu configuration!
 
 <hr>
 
-(Visual Studio Code)[https://code.visualstudio.com/]
+Install [Visual Studio Code](https://code.visualstudio.com/)
 
 **Installing Curl**
 
