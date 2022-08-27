@@ -95,3 +95,9 @@ sudo apt install default-jdk
 
 <br>
 
+**Installing Vim**
+
+```sh
+sudo apt update
+sudo apt install vim
+```
