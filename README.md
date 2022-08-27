@@ -16,3 +16,10 @@ sudo apt-get install curl
 sudo apt update
 sudo apt install apache2
 ```
+
+**Installing MySQL Server**
+
+```sh
+sudo apt install mysql-server
+```
+
