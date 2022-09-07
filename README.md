@@ -124,6 +124,7 @@ sudo apt install default-jdk
 **Installing Python**
 
 ```sh
+sudo apt-get update
 sudo apt-get install python3
 ```
 
