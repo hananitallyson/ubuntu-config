@@ -121,6 +121,14 @@ sudo apt install default-jdk
 
 <br>
 
+**Installing Python**
+
+```sh
+sudo apt-get install python3
+```
+
+<br>
+
 **Installing Vim**
 
 ```sh
