@@ -115,6 +115,15 @@ sudo mv composer.phar /usr/local/bin/composer
 
 <br>
 
+**Installing Node**
+
+```sh
+sudo apt update
+sudo apt install nodejs npm
+```
+
+<br>
+
 **Installing Java**
 
 ```sh
@@ -154,3 +163,5 @@ Now that we have set the zsh as our default shell, we have to configure it. So, 
 zsh
 ```
 You will have to logout of your system and log back in to see the change.
+
+<br>
