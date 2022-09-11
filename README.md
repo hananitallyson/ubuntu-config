@@ -94,9 +94,11 @@ sudo apt update
 sudo apt install php8.1
 sudo apt install php-curl
 sudo apt install php-xml
+sudo apt install php8.1-mysql
 ```
 
 <br>
+
 
 **Installing Composer**
 
