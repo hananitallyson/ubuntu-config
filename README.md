@@ -92,6 +92,7 @@ sudo mysql_secure_installation
 ```sh
 sudo apt update
 sudo apt install php8.1
+sudo apt install php-curl
 ```
 
 <br>
