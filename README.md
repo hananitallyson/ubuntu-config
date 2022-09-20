@@ -4,6 +4,25 @@ This README helps me with my Ubuntu configuration!
 
 <br>
 
+## Removing Snap-store and Installing Gnome-software
+
+**Removing Snap-store**
+
+```sh
+snap remove snap-store
+```
+
+<br>
+
+**Installing Gnome-software**
+
+```sh
+sudo apt install gnome-software gnome-software-plugin-flatpak
+sudo apt remove gnome-software-plugin-snap
+```
+
+<br>
+
 ## Development Programs
 
 - [Visual Studio Code](https://code.visualstudio.com/)
