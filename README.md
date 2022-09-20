@@ -50,24 +50,6 @@ sudo apt-get install git
 
 <br>
 
-**Installing Gdebi**
-
-```sh
-sudo apt update
-sudo apt-get install gdebi-core
-```
-
-<br>
-
-**Installing GitHub Desktop**
-
-```sh
-sudo wget https://github.com/shiftkey/desktop/releases/download/release-3.0.0-linux2/GitHubDesktop-linux-3.0.0-linux2.deb
-sudo gdebi GitHubDesktop-linux-3.0.0-linux2.deb
-```
-
-<br>
-
 **Installing Curl**
 
 ```sh
