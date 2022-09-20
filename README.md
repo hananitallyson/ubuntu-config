@@ -142,26 +142,3 @@ sudo apt-get install python3
 
 <br>
 
-**Installing Vim**
-
-```sh
-sudo apt update
-sudo apt install vim
-```
-
-<br>
-
-**Installing Zsh**
-
-```sh
-sudo apt update
-sudo apt-get install zsh -y
-chsh -s /usr/bin/zsh
-```
-Now that we have set the zsh as our default shell, we have to configure it. So, we will run zsh in the terminal to execute it. This will show the Z shell configuration. You can go for the recommended configuration for the shell by pressing 2.
-```sh
-zsh
-```
-You will have to logout of your system and log back in to see the change.
-
-<br>
