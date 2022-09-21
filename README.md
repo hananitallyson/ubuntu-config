@@ -27,6 +27,8 @@ sudo apt remove gnome-software-plugin-snap
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
+- [Docker Engine](https://docs.docker.com/engine/install/ubuntu/)
+- [Docker Desktop](https://docs.docker.com/desktop/install/linux-install/)
 
 <br>
 
@@ -140,12 +142,6 @@ sudo apt install default-jdk
 sudo apt-get update
 sudo apt-get install python3
 ```
-
-<br>
-
-**Installing Docker**
-
-[Docker](https://docs.docker.com/engine/install/ubuntu/)
 
 <br>
 
