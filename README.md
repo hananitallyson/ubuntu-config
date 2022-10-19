@@ -158,3 +158,11 @@ sudo apt-get install python3
 
 <br>
 
+<hr>
+
+**No SUDO needed to run Docker:**
+```sh
+sudo groupadd docker
+sudo usermod -aG docker $USER
+```
+Then, log out to change it.
