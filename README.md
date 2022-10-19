@@ -128,7 +128,6 @@ Or ~/zshrc if you use zshell.
 
 Then, install Node:
 ```sh
-sudo apt update
 nvm install node
 ```
 
