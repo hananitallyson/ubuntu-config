@@ -131,7 +131,7 @@ Then execute the command below:
 ```sh
 source ~/.bashrc
 ```
-Or ~/zshrc if you use zshell.
+Or _~/.zshrc_ if you use zshell.
 
 Then, install Node:
 ```sh
