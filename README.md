@@ -165,4 +165,4 @@ sudo apt-get install python3
 sudo groupadd docker
 sudo usermod -aG docker $USER
 ```
-Then, log out to change it.
+Then, restart to change it.
