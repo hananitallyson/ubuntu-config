@@ -34,6 +34,7 @@ sudo apt remove gnome-software-plugin-snap
 - [Docker Engine](https://docs.docker.com/engine/install/ubuntu/)
 - [Docker Desktop](https://docs.docker.com/desktop/install/linux-install/)
 - [Laravel Valet on Linux](https://cpriego.github.io/valet-linux/)
+- [Laravel Takeout](https://github.com/tighten/takeout)
 
 <br>
 
