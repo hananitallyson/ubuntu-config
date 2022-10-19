@@ -4,6 +4,21 @@ This README helps me with my Ubuntu configuration!
 
 <br>
 
+## Links
+
+### Videos:
+- [AMBIENTE de DESENVOLVIMENTO LARAVEL no LINUX](https://youtu.be/m7ULdRiMd-w)
+
+### Softwares:
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
+- [Docker Engine](https://docs.docker.com/engine/install/ubuntu/)
+- [Docker Desktop](https://docs.docker.com/desktop/install/linux-install/)
+- [Laravel Valet on Linux](https://cpriego.github.io/valet-linux/)
+- [Laravel Takeout](https://github.com/tighten/takeout)
+
+<br>
+
 ## Removing Snap-store and Installing Gnome-software
 
 **Removing Snap-store**
@@ -20,21 +35,6 @@ snap remove snap-store
 sudo apt install gnome-software gnome-software-plugin-flatpak
 sudo apt remove gnome-software-plugin-snap
 ```
-
-<br>
-
-## Links
-
-### Videos:
-- [AMBIENTE de DESENVOLVIMENTO LARAVEL no LINUX](https://youtu.be/m7ULdRiMd-w)
-
-### Softwares:
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
-- [Docker Engine](https://docs.docker.com/engine/install/ubuntu/)
-- [Docker Desktop](https://docs.docker.com/desktop/install/linux-install/)
-- [Laravel Valet on Linux](https://cpriego.github.io/valet-linux/)
-- [Laravel Takeout](https://github.com/tighten/takeout)
 
 <br>
 
