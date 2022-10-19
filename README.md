@@ -97,7 +97,6 @@ sudo apt install php-mbstring php-cli php-curl php-xml php-zip php-mysql php-pgs
 ```
 <br>
 
-
 **Installing Composer**
 
 ```sh
@@ -109,6 +108,14 @@ php -r "unlink('composer-setup.php');"
 Most likely, you want to put the composer.phar into a directory on your PATH, so you can simply call composer from any directory (Global install), using for example:
 ```sh
 sudo mv composer.phar /usr/local/bin/composer
+```
+
+<br>
+
+**Installing Laravel**
+
+```sh
+composer global require laravel/installer
 ```
 
 <br>
