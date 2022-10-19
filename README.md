@@ -7,7 +7,7 @@ This README helps me with my Ubuntu configuration!
 ## Links
 
 ### Videos:
-- [AMBIENTE de DESENVOLVIMENTO LARAVEL no LINUX](https://youtu.be/m7ULdRiMd-w)
+- [Laravel Development Enviroment Setup on Linux](https://youtu.be/m7ULdRiMd-w)
 
 ### Softwares:
 - [Visual Studio Code](https://code.visualstudio.com/)
