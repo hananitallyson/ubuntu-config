@@ -97,7 +97,10 @@ sudo mysql_secure_installation
 sudo apt update
 sudo apt install php
 ```
-
+Some PHP extensions:
+```sh
+sudo apt install php-mbstring php-cli php-curl php-xml php-zip php-mysql php-pgsql php-sqlite3
+```
 <br>
 
 
