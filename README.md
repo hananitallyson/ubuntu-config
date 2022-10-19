@@ -94,10 +94,7 @@ sudo mysql_secure_installation
 
 ```sh
 sudo apt update
-sudo apt install php8.1
-sudo apt install php-curl
-sudo apt install php-xml
-sudo apt install php8.1-mysql
+sudo apt install php
 ```
 
 <br>
@@ -120,9 +117,15 @@ sudo mv composer.phar /usr/local/bin/composer
 
 **Installing Node**
 
+First of all, install NVM (Node Version Manager):
 ```sh
 sudo apt update
-sudo apt install nodejs npm
+curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+```
+Then, install Node:
+```sh
+sudo apt update
+nvm install node
 ```
 
 <br>
