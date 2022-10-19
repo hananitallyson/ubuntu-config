@@ -153,7 +153,7 @@ sudo apt-get install python3
 
 <hr>
 
-**No SUDO needed to run Docker:**
+**Commands to not be needed SUDO to run Docker:**
 ```sh
 sudo groupadd docker
 sudo usermod -aG docker $USER
