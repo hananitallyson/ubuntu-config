@@ -25,6 +25,10 @@ sudo apt remove gnome-software-plugin-snap
 
 ## Links
 
+### Videos:
+[AMBIENTE de DESENVOLVIMENTO LARAVEL no LINUX](https://youtu.be/m7ULdRiMd-w)
+
+### Softwares:
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 - [Docker Engine](https://docs.docker.com/engine/install/ubuntu/)
