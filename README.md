@@ -122,6 +122,12 @@ First of all, install NVM (Node Version Manager):
 sudo apt update
 curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 ```
+Then execute the command below:
+```sh
+source ~/.bashrc
+```
+Or ~/zshrc if you use zshell.
+
 Then, install Node:
 ```sh
 sudo apt update
