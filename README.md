@@ -23,12 +23,13 @@ sudo apt remove gnome-software-plugin-snap
 
 <br>
 
-## Development Programs
+## Links
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 - [Docker Engine](https://docs.docker.com/engine/install/ubuntu/)
 - [Docker Desktop](https://docs.docker.com/desktop/install/linux-install/)
+- [Laravel Valet on Linux](https://cpriego.github.io/valet-linux/)
 
 <br>
 
