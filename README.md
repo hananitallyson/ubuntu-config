@@ -82,17 +82,6 @@ sudo apt install apache2
 sudo apt update
 sudo apt install mysql-server
 ```
-To configure your MySQL server, follow the steps:
-```sh
-sudo mysql
-```
-```sql
-ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
-exit
-```
-```sh
-sudo mysql_secure_installation
-```
 
 <br>
 
