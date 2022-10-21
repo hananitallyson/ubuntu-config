@@ -90,7 +90,7 @@ sudo apt install mysql-server
 ```sh
 sudo apt update
 sudo add-apt-repository ppa:ondrej/php
-sudo apt install php
+sudo apt install php8.1
 ```
 Some PHP extensions:
 ```sh
