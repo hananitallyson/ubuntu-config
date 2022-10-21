@@ -16,7 +16,6 @@ This README helps me with my Ubuntu configuration!
 - [Docker Desktop](https://docs.docker.com/desktop/install/linux-install/)
 - [Laravel Valet on Linux](https://cpriego.github.io/valet-linux/)
 - [Laravel Takeout](https://github.com/tighten/takeout)
-- [PHPEnv](https://github.com/phpenv/phpenv-installer)
 
 <br>
 
@@ -90,6 +89,7 @@ sudo apt install mysql-server
 
 ```sh
 sudo apt update
+sudo add-apt-repository ppa:ondrej/php
 sudo apt install php
 ```
 Some PHP extensions:
