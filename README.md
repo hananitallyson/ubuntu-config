@@ -12,11 +12,11 @@ This README helps me with my Ubuntu configuration!
 ### Softwares:
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
+- [Beekeeper Editor Community Edition](https://github.com/beekeeper-studio/beekeeper-studio)
 - [Docker Engine](https://docs.docker.com/engine/install/ubuntu/)
 - [Docker Desktop](https://docs.docker.com/desktop/install/linux-install/)
 - [Laravel Valet on Linux](https://cpriego.github.io/valet-linux/)
 - [Laravel Takeout](https://github.com/tighten/takeout)
-- [Beekeeper Editor Community Edition](https://github.com/beekeeper-studio/beekeeper-studio)
 
 <br>
 
