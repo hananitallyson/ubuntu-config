@@ -15,6 +15,7 @@ This README helps me with my Ubuntu configuration!
 - [Beekeeper Editor Community Edition](https://github.com/beekeeper-studio/beekeeper-studio)
 - [Docker Engine](https://docs.docker.com/engine/install/ubuntu/)
 - [Docker Desktop](https://docs.docker.com/desktop/install/linux-install/)
+- [Docker WSL](https://github.com/codeedu/wsl2-docker-quickstart)
 - [Laravel Valet on Linux](https://cpriego.github.io/valet-linux/)
 - [Laravel Takeout](https://github.com/tighten/takeout)
 
