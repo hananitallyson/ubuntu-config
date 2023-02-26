@@ -177,6 +177,6 @@ Then, restart to change it.
 ## Keyboard BR and US
 **Commands to setxkbmap:**
 ```sh
-setxkbmap -model abnt2 -layout "br,us"
+setxkbmap -model abnt2 -layout "us,br"
 setxkbmap -option grp:menu_toggle
 ```
