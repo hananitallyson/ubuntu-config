@@ -173,3 +173,10 @@ sudo groupadd docker
 sudo usermod -aG docker $USER
 ```
 Then, restart to change it.
+
+## Keyboard BR and US
+**Commands to setxkbmap:**
+```sh
+setxkbmap -model abnt2 -layout "br,us"
+setxkbmap -option grp:menu_toggle
+```
