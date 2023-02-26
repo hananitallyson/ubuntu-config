@@ -13,12 +13,12 @@ This README helps me with my Ubuntu configuration!
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 - [Beekeeper Editor Community Edition](https://github.com/beekeeper-studio/beekeeper-studio)
+- [Github Desktop Linux](https://github.com/shiftkey/desktop)
 - [Docker Engine](https://docs.docker.com/engine/install/ubuntu/)
 - [Docker Desktop](https://docs.docker.com/desktop/install/linux-install/)
 - [Docker WSL](https://github.com/codeedu/wsl2-docker-quickstart)
 - [Laravel Valet on Linux](https://cpriego.github.io/valet-linux/)
 - [Laravel Takeout](https://github.com/tighten/takeout)
-- [Github Desktop Linux](https://github.com/shiftkey/desktop)
 
 <br>
 
