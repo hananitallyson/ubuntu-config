@@ -18,6 +18,7 @@ This README helps me with my Ubuntu configuration!
 - [Docker WSL](https://github.com/codeedu/wsl2-docker-quickstart)
 - [Laravel Valet on Linux](https://cpriego.github.io/valet-linux/)
 - [Laravel Takeout](https://github.com/tighten/takeout)
+- [Github Desktop Linux](https://github.com/shiftkey/desktop)
 
 <br>
 
