@@ -174,7 +174,7 @@ sudo usermod -aG docker $USER
 ```
 Then, restart to change it.
 
-## Keyboard BR and US
+## Keyboard US and BR
 **Commands to setxkbmap:**
 ```sh
 setxkbmap -model abnt2 -layout "us,br"
