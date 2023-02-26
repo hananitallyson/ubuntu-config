@@ -112,6 +112,10 @@ Most likely, you want to put the composer.phar into a directory on your PATH, so
 ```sh
 sudo mv composer.phar /usr/local/bin/composer
 ```
+.bshrc or .zshrc:
+```
+export PATH=$PATH:$HOME/.config/composer/vendor/bin/
+```
 
 <br>
 
