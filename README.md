@@ -9,7 +9,7 @@ This README helps me with my Ubuntu configuration!
 ### Videos:
 - [Laravel Development Enviroment Setup on Linux](https://youtu.be/m7ULdRiMd-w)
 
-### Softwares:
+### Softwares & Repositories:
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 - [Beekeeper Editor Community Edition](https://github.com/beekeeper-studio/beekeeper-studio)
@@ -19,6 +19,7 @@ This README helps me with my Ubuntu configuration!
 - [Docker WSL](https://github.com/codeedu/wsl2-docker-quickstart)
 - [Laravel Valet on Linux](https://cpriego.github.io/valet-linux/)
 - [Laravel Takeout](https://github.com/tighten/takeout)
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 
 <br>
 
@@ -157,11 +158,24 @@ sudo apt install default-jdk
 
 <br>
 
-**Installing Python**
+**Installing Python & PIP**
 
 ```sh
-sudo apt-get update
-sudo apt-get install python3
+sudo apt update
+sudo apt install python3
+```
+
+```sh
+sudo apt install pip
+```
+
+<br>
+
+**Installing ZSH**
+
+```sh
+sudo apt update
+sudo apt install zsh
 ```
 
 <br>
