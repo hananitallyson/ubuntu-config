@@ -20,6 +20,7 @@ This README helps me with my Ubuntu configuration!
 - [Laravel Valet on Linux](https://cpriego.github.io/valet-linux/)
 - [Laravel Takeout](https://github.com/tighten/takeout)
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+- [Zinit](https://github.com/zdharma-continuum/zinit)
 
 <br>
 
