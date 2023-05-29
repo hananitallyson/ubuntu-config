@@ -69,10 +69,6 @@ sudo apt-get install git
 sudo apt update
 sudo apt-get install curl
 ```
-Archlinux:
-```sh
-sudo pacman -S curl
-```
 
 <br>
 
@@ -105,10 +101,7 @@ Some PHP extensions:
 ```sh
 sudo apt install php-mbstring php-cli php-curl php-xml php-zip php-mysql php-pgsql php-sqlite3
 ```
-Archlinux:
-```sh
-sudo pacman -S php
-```
+
 <br>
 
 **Installing Composer**
