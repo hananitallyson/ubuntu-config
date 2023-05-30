@@ -21,6 +21,7 @@ This README helps me with my Ubuntu configuration!
 - [Laravel Takeout](https://github.com/tighten/takeout)
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - [Zinit](https://github.com/zdharma-continuum/zinit)
+- [Flatpak](https://flatpak.org/setup/)
 
 <br>
 
