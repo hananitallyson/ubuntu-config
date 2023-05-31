@@ -62,6 +62,14 @@ sudo apt update
 sudo apt-get install git
 ```
 
+Download the latest tarball for Git Credential Manager, and run the following:
+
+```sh
+tar -xvf <path-to-tarball> -C /usr/local/bin
+git-credential-manager configure
+git config --global credential.credentialStore secretservice
+```
+
 <br>
 
 **Installing Curl**
