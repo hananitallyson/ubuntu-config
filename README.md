@@ -22,6 +22,7 @@ This README helps me with my Ubuntu configuration!
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - [Zinit](https://github.com/zdharma-continuum/zinit)
 - [Flatpak](https://flatpak.org/setup/)
+- [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager/releases)
 
 <br>
 
